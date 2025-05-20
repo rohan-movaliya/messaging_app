@@ -1,0 +1,13 @@
+channels
+channels-redis
+django
+djangorestframework
+djangorestframework-simplejwt
+daphne
+httpx
+locust
+pillow
+psycopg2-binary
+pytz
+requests
+stripe
